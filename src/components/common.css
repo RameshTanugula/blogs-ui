@@ -1,0 +1,12 @@
+.sidebar-main {
+    margin-top: 20%;
+    display: flex;
+}
+.categories {
+    width: 30%;
+    height: auto;
+    border: 1px solid blue;
+}
+.posts {
+    margin-left: 5rem;
+}
